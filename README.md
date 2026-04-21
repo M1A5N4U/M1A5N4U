@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I am Manpreet Kaur 
+Fresher | Interested in web development | Frontend knowledge | pursuing MCA
 <!--
 **M1A5N4U/M1A5N4U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
